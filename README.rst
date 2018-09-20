@@ -5,7 +5,8 @@ and adapted the sphinx example from here: https://github.com/timstaley/sphinx-ex
 
 Structure
 ---------
-:
+The structure is as follows::
+
     Root
     |-- code
     |   |-- example.py  python sourcecode documented using rst-formatted docstrings
@@ -20,6 +21,7 @@ Structure
 Usage
 -----
 In the docs-folder, run for example::
+
     make html
 
-The html-files of the documentation can then be found in ::docs/build/html .
+The html-files of the documentation can then be found in docs/build/html .
