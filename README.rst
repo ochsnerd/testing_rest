@@ -5,7 +5,7 @@ and adapted the sphinx example from here: https://github.com/timstaley/sphinx-ex
 
 Structure
 ---------
-::
+:
     Root
     |-- code
     |   |-- example.py  python sourcecode documented using rst-formatted docstrings
